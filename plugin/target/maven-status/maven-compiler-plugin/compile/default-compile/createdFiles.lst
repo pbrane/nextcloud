@@ -1,0 +1,17 @@
+org/beacon/nextcloud/plugin/AlarmForwarder.class
+org/beacon/nextcloud/plugin/model/Alert.class
+org/beacon/nextcloud/plugin/EventConfExtension.class
+org/beacon/nextcloud/plugin/TopologyForwarder.class
+org/beacon/nextcloud/plugin/AlarmForwarder$1.class
+org/beacon/nextcloud/plugin/ApiClient$1.class
+org/beacon/nextcloud/plugin/shell/TopologyCommand.class
+org/beacon/nextcloud/plugin/model/Alert$Status.class
+org/beacon/nextcloud/plugin/TopologyForwarder$1.class
+org/beacon/nextcloud/plugin/model/Alert$Status$Serializer.class
+org/beacon/nextcloud/plugin/WebhookHandlerImpl.class
+org/beacon/nextcloud/plugin/ApiClient.class
+org/beacon/nextcloud/plugin/model/Topology.class
+org/beacon/nextcloud/plugin/model/Link.class
+org/beacon/nextcloud/plugin/model/Alert$InstantSerializer.class
+org/beacon/nextcloud/plugin/WebhookHandler.class
+org/beacon/nextcloud/plugin/shell/StatsCommand.class

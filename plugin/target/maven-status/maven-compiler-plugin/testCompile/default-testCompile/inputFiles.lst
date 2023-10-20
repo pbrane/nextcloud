@@ -1,0 +1,4 @@
+/usr/src/plugin/opennms-nextcloud-plugin/plugin/src/test/java/org/beacon/nextcloud/plugin/AlertTest.java
+/usr/src/plugin/opennms-nextcloud-plugin/plugin/src/test/java/org/beacon/nextcloud/plugin/AlarmForwarderIT.java
+/usr/src/plugin/opennms-nextcloud-plugin/plugin/src/test/java/org/beacon/nextcloud/plugin/TopologyTest.java
+/usr/src/plugin/opennms-nextcloud-plugin/plugin/src/test/java/org/beacon/nextcloud/plugin/AlarmForwarderTest.java

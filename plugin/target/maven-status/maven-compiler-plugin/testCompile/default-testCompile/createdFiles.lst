@@ -1,0 +1,4 @@
+org/beacon/nextcloud/plugin/AlertTest.class
+org/beacon/nextcloud/plugin/TopologyTest.class
+org/beacon/nextcloud/plugin/AlarmForwarderIT.class
+org/beacon/nextcloud/plugin/AlarmForwarderTest.class
